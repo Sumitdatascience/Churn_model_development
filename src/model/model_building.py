@@ -84,7 +84,7 @@ def main():
     trained_model = train_model(model, x_train, y_train)
     
     # Save the trained model
-    save_model(trained_model, 'model.pkl')
+    save_model(trained_model, 'models/model.pkl')
 
 
 if __name__ == "__main__":

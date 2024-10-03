@@ -33,12 +33,28 @@ stages:
     - model_building.max_depth
     - model_building.max_leaf_nodes
     outs:
-    - model.pkl
+    - models/model.pkl
 
-  model_evalution:
-    cmd: python src/model/model_evalution.py  # Corrected path
+  # model_evalution:
+  #   cmd: python src/model/model_evalution.py  # Corrected path
+  #   deps:
+  #   - model.pkl
+  #   - src/model/model_evalution.py  # Corrected path
+  #   metrics:
+  #   - metrics.json
+
+  model_evaluation:
+    cmd: python src/model/model_evalution.py
     deps:
-    - model.pkl
-    - src/model/model_evalution.py  # Corrected path
+    - models/model.pkl
+    - src/model/model_evalution.py
     metrics:
-    - metrics.json
+    - reports/metrics.json
+    outs:
+    - reports/experiment_info.json  # Add the model_info.json file as an output
+
+  model_registration:
+    cmd: python src/model/register_model.py
+    deps:
+    - reports/experiment_info.json
+    - src/model/register_model.py
