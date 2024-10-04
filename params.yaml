@@ -1,5 +1,5 @@
 feature_engineering:
- test_size : 0.20
+ test_size : 0.30
 model_building:
  max_depth: 3
  max_leaf_nodes: 2

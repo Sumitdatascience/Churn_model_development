@@ -233,9 +233,12 @@ def main():
 
         # Create an input example (using the first row of the test data)
         input_example = x_test.head(1)
+        print(input_example)
 
         # Generate predictions
         y_pred = predict(model, x_test)
+        # y_pred1 = predict(model,input_example)
+        # print(y_pred1)
 
         # Infer the model signature
         signature = infer_signature(x_test, y_pred)

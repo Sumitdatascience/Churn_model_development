@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Churn Prediction Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+        }
+        label {
+            display: block;
+            margin: 10px 0 5px;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .result {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align: center;">Churn Prediction Form</h2>
+
+    <form id="churnForm" action="javascript:void(0);">
+        <label for="tenure">Tenure</label>
+        <input type="number" id="tenure" name="tenure" required>
+
+        <label for="preferredLoginDevice">Preferred Login Device</label>
+        <input type="text" id="preferredLoginDevice" name="preferredLoginDevice" required>
+
+        <label for="cityTier">City Tier</label>
+        <input type="number" id="cityTier" name="cityTier" required>
+
+        <label for="warehouseToHome">Warehouse to Home (in km)</label>
+        <input type="number" id="warehouseToHome" name="warehouseToHome" required>
+
+        <label for="preferredPaymentMode">Preferred Payment Mode</label>
+        <input type="text" id="preferredPaymentMode" name="preferredPaymentMode" required>
+
+        <label for="gender">Gender</label>
+        <input type="text" id="gender" name="gender" required>
+
+        <label for="hourSpendOnApp">Hours Spent on App</label>
+        <input type="number" id="hourSpendOnApp" name="hourSpendOnApp" required>
+
+        <label for="numberOfDeviceRegistered">Number of Devices Registered</label>
+        <input type="number" id="numberOfDeviceRegistered" name="numberOfDeviceRegistered" required>
+
+        <label for="preferredOrderCat">Preferred Order Category</label>
+        <input type="text" id="preferredOrderCat" name="preferredOrderCat" required>
+
+        <label for="satisfactionScore">Satisfaction Score</label>
+        <input type="number" id="satisfactionScore" name="satisfactionScore" required>
+
+        <label for="maritalStatus">Marital Status</label>
+        <input type="text" id="maritalStatus" name="maritalStatus" required>
+
+        <label for="numberOfAddress">Number of Addresses</label>
+        <input type="number" id="numberOfAddress" name="numberOfAddress" required>
+
+        <label for="complain">Complain (0 for No, 1 for Yes)</label>
+        <input type="number" id="complain" name="complain" min="0" max="1" required>
+
+        <label for="orderAmountHikeFromLastYear">Order Amount Hike From Last Year (%)</label>
+        <input type="number" id="orderAmountHikeFromLastYear" name="orderAmountHikeFromLastYear" required>
+
+        <label for="orderCount">Order Count</label>
+        <input type="number" id="orderCount" name="orderCount" required>
+
+        <label for="daySinceLastOrder">Days Since Last Order</label>
+        <input type="number" id="daySinceLastOrder" name="daySinceLastOrder" required>
+
+        <label for="cashbackAmount">Cashback Amount</label>
+        <input type="number" id="cashbackAmount" name="cashbackAmount" required>
+
+        <input type="submit" value="Submit" onclick="makePrediction()">
+    </form>
+
+    <div class="result" id="result"></div>
+
+    <script>
+        function makePrediction() {
+    const form = document.getElementById('churnForm');
+    const formData = new FormData(form);
+
+    // Prepare the data to send to the backend
+    const data = {
+        'tenure': formData.get('tenure'),
+        'preferredLoginDevice': formData.get('preferredLoginDevice'),
+        'cityTier': formData.get('cityTier'),
+        'warehouseToHome': formData.get('warehouseToHome'),
+        'preferredPaymentMode': formData.get('preferredPaymentMode'),
+        'gender': formData.get('gender'),
+        'hourSpendOnApp': formData.get('hourSpendOnApp'),
+        'numberOfDeviceRegistered': formData.get('numberOfDeviceRegistered'),
+        'preferredOrderCat': formData.get('preferredOrderCat'),
+        'satisfactionScore': formData.get('satisfactionScore'),
+        'maritalStatus': formData.get('maritalStatus'),
+        'numberOfAddress': formData.get('numberOfAddress'),
+        'complain': formData.get('complain'),
+        'orderAmountHikeFromLastYear': formData.get('orderAmountHikeFromLastYear'),
+        'orderCount': formData.get('orderCount'),
+        'daySinceLastOrder': formData.get('daySinceLastOrder'),
+        'cashbackAmount': formData.get('cashbackAmount')
+    };
+
+    console.log(data);  // Verify the data is correct before sending
+
+    // Send the request to the backend (Flask app) at the correct URL
+    fetch('http://127.0.0.1:5000/predict', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => response.json())
+    .then(result => {
+        document.getElementById('result').innerHTML = `<h3>Prediction: ${result.prediction}</h3>`;
+    })
+    .catch(error => {
+        console.error('Error:', error);
+        document.getElementById('result').innerHTML = `<h3 style="color: red;">Error making prediction.</h3>`;
+    });
+}
+
+    </script>
+
+</body>
+</html>
