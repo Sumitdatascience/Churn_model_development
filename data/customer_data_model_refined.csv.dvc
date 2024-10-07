@@ -1,0 +1,5 @@
+outs:
+- md5: b732aec4c676cb0ed7c8f4ff7f07e960
+  size: 196351
+  hash: md5
+  path: customer_data_model_refined.csv
