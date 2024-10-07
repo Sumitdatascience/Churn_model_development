@@ -1,0 +1,1635 @@
+Unnamed: 0,Tenure,PreferredLoginDevice,CityTier,WarehouseToHome,PreferredPaymentMode,Gender,HourSpendOnApp,NumberOfDeviceRegistered,PreferredOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,OrderAmountHikeFromLastYear,OrderCount,DaySinceLastOrder,CashbackAmount
+1230,12,Desktop,0,0,Pay Now,Male,0,1,Beauty & Fitness,4,0,1.0,0,0.0,1,55.0,0.0
+1755,4,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,1.0,0,0.0,1,143.0,0.0
+1412,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,1.0,0,0.0,1,121.0,0.0
+568,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1326,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,77.0,0.0
+900,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1986,3,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,2.0,1,0.0,1,107.0,0.0
+222,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1301,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,1.0,1,0.0,2,166.0,0.0
+953,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2205,1,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,57.0,0.0
+483,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+578,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1345,12,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,2.0,1,0.0,3,160.0,0.0
+1308,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,2.0,1,0.0,1,35.0,0.0
+1128,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+749,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1366,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,2.0,0,0.0,1,46.0,0.0
+861,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2026,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,1.0,1,0.0,1,99.0,0.0
+364,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2086,2,Desktop,0,0,Installment,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,86.0,0.0
+246,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,1.0,1,0.0,0,0.0,0.0
+1842,4,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,2,125.0,0.0
+106,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1176,12,Desktop,0,0,Installment,Male,0,1,Home Appliances,5,0,2.0,1,0.0,6,162.0,0.0
+1575,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,1,0,1.0,0,0.0,1,179.0,0.0
+788,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1094,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2107,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,5,0,1.0,0,0.0,1,82.0,0.0
+712,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+451,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+974,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2042,3,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,1,0,1.0,1,0.0,1,36.0,0.0
+1540,6,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,1,0.0,1,166.0,0.0
+1244,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,2.0,1,0.0,2,119.0,0.0
+2222,1,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,1,0.0,3,54.0,0.0
+1309,12,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,2,150.0,0.0
+172,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+51,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+201,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1570,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,1,0,3.0,0,0.0,4,173.0,0.0
+1758,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,141.0,0.0
+2285,1,Desktop,0,0,Mips,Female,0,1,Electronics,1,0,1.0,0,0.0,1,39.0,0.0
+743,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1743,4,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,2,140.0,0.0
+1310,12,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,1,0.0,2,179.0,0.0
+236,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1437,12,Desktop,0,0,Installment,Female,0,1,Others,5,0,1.0,1,0.0,1,89.0,0.0
+566,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+608,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+719,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+187,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1065,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+135,12,Desktop,0,0,Installment,Male,0,1,Home Appliances,1,0,1.0,0,0.0,1,282.5,0.0
+1699,5,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,4,0,2.0,1,0.0,4,154.0,13989.0
+1748,4,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,2,0,1.0,0,0.0,1,144.0,0.0
+1586,5,Desktop,0,0,Installment,Male,0,1,Beauty & Fitness,5,0,5.0,1,0.0,13,176.0,0.0
+1059,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1477,10,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,1.0,0,0.0,2,79.0,0.0
+979,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1962,3,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,112.0,0.0
+2258,1,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,1,0,2.0,1,0.0,5,48.0,6289.0
+1724,4,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,2.0,0,0.0,1,149.0,0.0
+1238,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,4.0,0,0.0,3,167.0,0.0
+2194,1,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,1,0.0,4,61.0,11989.0
+635,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+840,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+574,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1955,3,Desktop,0,0,Mips,Male,0,1,Others,5,0,0.0,0,0.0,1,113.0,0.0
+93,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1155,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1395,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,2,118.0,0.0
+1127,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+288,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+934,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1975,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,4,0,1.0,0,0.0,2,108.0,0.0
+70,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+5,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1269,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,3.0,0,0.0,2,81.0,0.0
+2143,2,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,1,0.0,1,75.0,0.0
+1141,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+905,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+67,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+806,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+852,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1705,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,4,152.0,10989.0
+1302,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,0,0.0,1,120.0,0.0
+1220,12,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,3,0,1.0,1,0.0,1,109.0,0.0
+1612,5,Desktop,0,0,Pay Now,Male,0,1,Electronics,1,0,2.0,1,0.0,1,169.0,0.0
+694,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+284,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+101,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+295,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+925,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2161,2,Desktop,0,0,Pay Now,Female,0,1,Others,3,0,1.0,1,0.0,1,71.0,0.0
+1965,3,Desktop,0,0,No Payment Information Required,Female,0,1,Others,3,0,2.0,1,0.0,4,111.0,219.0
+39,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2252,1,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,5,0,2.0,0,0.0,4,48.0,2390.0
+129,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1097,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1789,4,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,1,0,1.0,0,0.0,5,137.0,0.0
+2039,3,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,2,0,2.0,1,0.0,4,98.0,590.0
+863,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+573,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+253,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+612,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1636,5,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,1.0,1,0.0,1,166.0,0.0
+492,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1623,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,3,169.0,0.0
+1440,12,Desktop,0,0,Mips,Female,0,1,Others,1,0,1.0,0,0.0,7,33.0,0.0
+985,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+58,12,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,2.0,1,0.0,1,280.0,0.0
+2245,1,Desktop,0,0,Installment,Female,0,1,Others,4,0,1.0,1,0.0,1,50.0,0.0
+1351,12,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,5,0,1.0,0,0.0,3,57.0,0.0
+669,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+881,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+493,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1100,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2113,2,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,0,0.0,1,81.0,0.0
+2203,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,2.0,0,0.0,1,57.0,0.0
+52,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+816,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,2.0,0,0.0,1,282.5,0.0
+1136,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1989,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,106.0,0.0
+1532,7,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,5,0,1.0,0,0.0,1,77.0,0.0
+827,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,1.0,0,0.0,0,0.0,0.0
+956,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+350,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,1.0,1,0.0,0,0.0,0.0
+1951,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,113.0,0.0
+1034,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1079,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2076,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,2.0,0,0.0,4,89.0,24988.0
+731,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,1,0,1.0,1,0.0,2,228.0,0.0
+18,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2137,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,0,0.0,3,78.0,11989.0
+679,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2152,2,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,74.0,0.0
+1438,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,2,123.0,0.0
+1140,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1414,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,1,0.0,6,182.0,0.0
+940,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+313,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+773,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1187,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,15,128.0,0.0
+345,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1499,8,Desktop,0,0,Pay Now,Female,0,1,Others,2,0,1.0,1,0.0,2,135.0,0.0
+473,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1747,4,Desktop,0,0,Installment,Male,0,1,Home Appliances,3,0,1.0,0,0.0,1,144.0,0.0
+1413,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,2,0,5.0,0,0.0,6,164.0,0.0
+1712,4,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,152.0,0.0
+1825,4,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,1.0,1,0.0,1,128.0,0.0
+325,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+604,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1112,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2145,2,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,2.0,0,0.0,1,75.0,0.0
+1640,5,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,2.0,1,0.0,2,166.0,0.0
+2228,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,1.0,0,0.0,1,53.0,0.0
+1767,4,Desktop,0,0,Mips,Male,0,1,Home Appliances,5,0,1.0,1,0.0,1,141.0,0.0
+1093,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1006,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1836,4,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,4,0,1.0,1,0.0,7,44.0,0.0
+1819,4,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,1.0,0,0.0,1,113.0,0.0
+414,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1826,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,128.0,0.0
+933,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+217,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1331,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,3.0,1,0.0,1,113.0,0.0
+2292,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,38.0,0.0
+1189,12,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,3.0,0,0.0,3,167.0,0.0
+653,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1325,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,1,0.0,6,91.0,0.0
+268,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2022,3,Desktop,0,0,Installment,Male,0,1,Others,3,0,2.0,0,0.0,3,99.0,0.0
+1483,9,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,1,0,2.0,0,0.0,2,166.0,0.0
+1287,12,Desktop,0,0,Mips,Female,0,1,Electronics,3,0,1.0,0,0.0,1,139.0,0.0
+425,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2172,2,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,4,0,2.0,1,0.0,1,69.0,0.0
+1920,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,116.0,0.0
+662,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+432,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2018,3,Desktop,0,0,Mips,Male,0,1,Home Appliances,2,0,1.0,0,0.0,1,99.0,0.0
+636,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1007,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+299,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1954,3,Desktop,0,0,Pay on Delivery,Male,0,1,Others,2,0,1.0,0,0.0,1,113.0,0.0
+16,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+390,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+57,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2005,3,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,2.0,0,0.0,3,102.0,16988.0
+768,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1182,12,Desktop,0,0,Mips,Male,0,1,Electronics,1,0,1.0,0,0.0,1,84.0,0.0
+366,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+439,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1449,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,170.0,0.0
+1925,3,Desktop,0,0,Pay Now,Male,0,1,Others,5,0,2.0,0,0.0,2,115.0,0.0
+1896,3,Desktop,0,0,Installment,Male,0,1,Home Appliances,1,0,2.0,0,0.0,1,119.0,0.0
+1020,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+80,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2105,2,Desktop,0,0,No Payment Information Required,Female,0,1,Beauty & Fitness,5,0,2.0,1,0.0,5,82.0,2490.0
+1566,5,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,1,0,1.0,1,0.0,1,181.0,0.0
+945,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+656,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+445,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1715,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,1,0.0,1,151.0,0.0
+1824,4,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,1,0.0,1,128.0,0.0
+1347,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,1,0.0,9,64.0,0.0
+1926,3,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,115.0,0.0
+2174,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,3,69.0,9489.0
+999,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1456,11,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,1.0,1,0.0,10,124.0,0.0
+152,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1144,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+78,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1799,4,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,5,0,2.0,1,0.0,1,134.0,0.0
+392,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1024,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2096,2,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,5,0,2.0,0,0.0,1,85.0,0.0
+1368,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,2.0,0,0.0,1,108.0,0.0
+2108,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,82.0,0.0
+497,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+535,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1350,12,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,2.0,1,0.0,11,85.0,0.0
+2131,2,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,5,0,1.0,0,0.0,1,78.0,0.0
+575,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+332,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+879,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+463,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1809,4,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,131.0,0.0
+2146,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,75.0,0.0
+1348,12,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,5.0,1,0.0,13,80.0,0.0
+1180,12,Desktop,0,0,Installment,Female,0,1,Others,3,0,1.0,1,0.0,1,130.0,0.0
+2121,2,Desktop,0,0,Mips,Male,0,1,Others,2,0,1.0,0,0.0,1,78.0,0.0
+2156,2,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,72.0,0.0
+1959,3,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,2.0,0,0.0,2,112.0,0.0
+181,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2240,1,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,50.0,0.0
+1372,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,1.0,1,0.0,2,169.0,0.0
+1936,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,114.0,0.0
+2119,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,2.0,1,0.0,2,78.0,0.0
+1990,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,2.0,0,0.0,4,106.0,8989.0
+764,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+177,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+45,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1386,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,0,0.0,1,99.0,0.0
+1982,3,Desktop,0,0,Installment,Male,0,1,Home Appliances,2,0,2.0,0,0.0,1,107.0,0.0
+777,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1578,5,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,1,0,2.0,1,0.0,1,179.0,0.0
+2056,3,Desktop,0,0,Pay Now,Male,0,1,Electronics,1,0,1.0,1,0.0,1,95.0,0.0
+541,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1471,10,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,3.0,0,0.0,3,139.0,0.0
+708,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1909,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,117.0,0.0
+2322,0,Desktop,0,0,Mips,Female,0,1,Electronics,5,0,1.0,1,0.0,1,29.0,0.0
+924,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1464,11,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,2.0,1,0.0,18,3.0,0.0
+26,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1019,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1291,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,105.0,0.0
+2215,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,3,0,2.0,1,0.0,1,56.0,0.0
+4,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2097,2,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,3,0,2.0,0,0.0,1,85.0,0.0
+1327,12,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,3,0,1.0,0,0.0,4,40.0,0.0
+1498,9,Desktop,0,0,Mips,Male,0,1,Electronics,1,0,2.0,1,0.0,1,109.0,0.0
+1192,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,5,0,0.0,0,0.0,1,36.0,0.0
+1657,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,5,0,1.0,0,0.0,1,162.0,0.0
+649,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2261,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,47.0,0.0
+1768,4,Desktop,0,0,Pay on Delivery,Female,0,1,Others,3,0,2.0,1,0.0,1,141.0,0.0
+954,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1459,11,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,1,0,1.0,1,0.0,5,50.0,0.0
+565,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+499,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1116,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+820,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1240,12,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,2,0,1.0,0,0.0,2,65.0,0.0
+2081,2,Desktop,0,0,Mips,Male,0,1,Home Appliances,5,0,1.0,0,0.0,1,88.0,0.0
+1822,4,Desktop,0,0,Pay Now,Male,0,1,Beauty & Fitness,4,0,3.0,0,0.0,1,129.0,0.0
+2044,3,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,2.0,0,0.0,5,97.0,41486.0
+452,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+664,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1382,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,4,73.0,0.0
+334,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+105,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1376,12,Desktop,0,0,Mips,Female,0,1,Electronics,2,0,2.0,0,0.0,1,120.0,0.0
+495,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+970,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1508,8,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,3,0,1.0,1,0.0,1,57.0,0.0
+1528,7,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,1,0.0,2,57.0,0.0
+385,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+271,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1615,5,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,5,0,2.0,1,0.0,1,169.0,0.0
+166,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+121,12,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,2,0,2.0,0,0.0,1,250.0,0.0
+154,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1614,5,Desktop,0,0,Mips,Male,0,1,Electronics,2,0,1.0,0,0.0,1,169.0,0.0
+1569,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,180.0,0.0
+1653,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,2.0,1,0.0,1,163.0,0.0
+46,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2178,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,2.0,1,0.0,3,67.0,9989.0
+44,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1123,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1752,4,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,3,58.0,0.0
+1232,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,148.0,0.0
+1184,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,176.0,0.0
+1805,4,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,1.0,1,0.0,2,132.0,49985.0
+120,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1791,4,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,4,0,1.0,1,0.0,1,136.0,0.0
+474,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+726,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1388,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,3.0,1,0.0,15,148.0,0.0
+1167,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2040,3,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,2.0,0,0.0,2,98.0,7989.0
+1732,4,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,2.0,0,0.0,1,147.0,0.0
+1878,3,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,3,0,1.0,1,0.0,1,120.0,0.0
+1548,6,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,1.0,0,0.0,2,173.0,0.0
+1867,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,1.0,0,0.0,4,123.0,9989.0
+709,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1119,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1698,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,3.0,0,0.0,3,148.0,0.0
+185,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1278,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,0.0,0,0.0,1,127.0,0.0
+468,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+290,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1503,8,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,2.0,1,0.0,1,72.0,0.0
+188,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1294,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,1.0,1,0.0,1,99.0,0.0
+1898,3,Desktop,0,0,Pay Now,Male,0,1,Electronics,3,0,1.0,0,0.0,1,119.0,0.0
+2192,2,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,1,0.0,1,62.0,0.0
+1759,4,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,2.0,1,0.0,3,142.0,0.0
+1337,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,1.0,0,0.0,1,115.0,0.0
+2284,1,Desktop,0,0,Pay Now,Female,0,1,Others,3,0,1.0,0,0.0,1,40.0,0.0
+1257,12,Desktop,0,0,Pay Now,Female,0,1,Others,3,0,1.0,1,0.0,1,64.0,0.0
+878,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1197,12,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,0,0.0,1,99.0,0.0
+137,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1594,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,173.0,0.0
+1475,10,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,1,0.0,2,140.0,0.0
+588,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2120,2,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,0,0.0,1,78.0,0.0
+2010,3,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,5,0,1.0,1,0.0,1,102.0,0.0
+1239,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,121.0,0.0
+1419,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,2.0,1,0.0,1,86.0,0.0
+370,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2184,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,64.0,0.0
+1494,9,Desktop,0,0,Installment,Male,0,1,Others,1,0,1.0,1,0.0,3,62.0,0.0
+1750,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,1.0,0,0.0,4,143.0,9989.0
+1821,4,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,0,0.0,3,104.0,0.0
+858,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1766,4,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,5,0,1.0,0,0.0,1,141.0,0.0
+1489,9,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,2.0,0,0.0,2,50.0,0.0
+730,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+944,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+514,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+24,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1942,3,Desktop,0,0,Mips,Female,0,1,Others,2,0,1.0,0,0.0,1,114.0,0.0
+846,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1874,3,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,1,0.0,3,92.0,0.0
+2134,2,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,5,0,1.0,1,0.0,1,78.0,0.0
+1252,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,1,0,2.0,1,0.0,2,165.0,0.0
+1056,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+916,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+409,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+300,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2127,2,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,78.0,0.0
+42,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+544,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1315,12,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,0.0,0,0.0,2,117.0,0.0
+1884,3,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,1,0.0,1,96.0,0.0
+1545,6,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,0,0.0,4,147.0,0.0
+1946,3,Desktop,0,0,Pay on Delivery,Male,0,1,Others,4,0,2.0,0,0.0,2,113.0,0.0
+755,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2088,2,Desktop,0,0,Mips,Male,0,1,Home Appliances,5,0,1.0,1,0.0,1,85.0,0.0
+472,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+144,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+981,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+99,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+633,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1435,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,2.0,0,0.0,1,94.0,0.0
+223,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+549,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2206,1,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,57.0,0.0
+1362,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,2.0,1,0.0,1,101.0,0.0
+2327,0,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,29.0,0.0
+1558,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,183.0,0.0
+1956,3,Desktop,0,0,Mips,Male,0,1,Electronics,4,0,1.0,0,0.0,1,113.0,0.0
+446,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1885,3,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,0,0.0,1,120.0,0.0
+602,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1779,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,57,6.0,0.0
+433,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+652,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+448,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1635,5,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,1,166.0,0.0
+1689,5,Desktop,0,0,Mips,Female,0,1,Others,1,0,1.0,0,0.0,1,155.0,0.0
+394,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+357,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+252,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1229,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,178.0,0.0
+64,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+507,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1638,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,5,0,1.0,1,0.0,1,166.0,0.0
+947,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1027,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+738,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+276,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+778,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+856,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+294,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1418,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,2.0,1,0.0,1,136.0,0.0
+993,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+676,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1875,3,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,2.0,0,0.0,1,121.0,0.0
+817,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+958,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+158,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+490,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2207,1,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,57.0,0.0
+199,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1085,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1552,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,1.0,0,0.0,1,183.0,0.0
+1524,8,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,2.0,0,0.0,1,117.0,0.0
+2275,1,Desktop,0,0,Pay on Delivery,Female,0,1,Others,4,0,2.0,0,0.0,1,43.0,0.0
+1389,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,2.0,0,0.0,1,109.0,0.0
+793,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,2.0,0,0.0,1,282.5,0.0
+1813,4,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,3,0,1.0,0,0.0,1,131.0,0.0
+2272,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Others,2,0,1.0,1,0.0,1,44.0,0.0
+2249,1,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,1,49.0,0.0
+655,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2248,1,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,2,0,2.0,1,0.0,7,49.0,1190.0
+1944,3,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,1.0,1,0.0,1,114.0,0.0
+63,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1726,4,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,1.0,1,0.0,3,148.0,0.0
+1680,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,2.0,1,0.0,5,158.0,16988.0
+1134,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1694,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,154.0,0.0
+191,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1522,8,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,2,181.0,0.0
+393,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1812,4,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,1,0.0,3,87.0,0.0
+417,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+219,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+455,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+143,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+960,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1518,8,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,1,0,2.0,0,0.0,2,183.0,0.0
+1417,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,55.0,0.0
+1840,4,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,4,0,1.0,1,0.0,4,126.0,13989.0
+2104,2,Desktop,0,0,No Payment Information Required,Female,0,1,Beauty & Fitness,1,0,2.0,1,0.0,6,83.0,1390.0
+1562,5,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,5,0,1.0,0,0.0,1,182.0,0.0
+810,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,282.5,0.0
+614,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+312,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1727,4,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,3,0,0.0,1,0.0,1,148.0,0.0
+125,12,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,4,0,1.0,0,0.0,1,256.0,0.0
+1016,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+211,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2225,1,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,1.0,1,0.0,1,53.0,0.0
+2326,0,Desktop,0,0,Pay Now,Female,0,1,Others,1,0,1.0,1,0.0,1,29.0,0.0
+2029,3,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,2,0,2.0,1,0.0,1,99.0,0.0
+991,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+40,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+153,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1843,4,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,125.0,0.0
+1191,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,0,0.0,3,49.0,0.0
+1296,12,Desktop,0,0,Mips,Female,0,1,Electronics,1,0,1.0,1,0.0,1,73.0,0.0
+274,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1613,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,6,169.0,0.0
+561,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1349,12,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,3,0,0.0,1,0.0,1,36.0,0.0
+1139,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+683,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2082,2,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,3,0,1.0,1,0.0,5,87.0,9979.0
+1222,12,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,4,0,2.0,0,0.0,4,98.0,0.0
+306,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+301,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+256,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+720,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+782,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+675,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+665,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+786,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1605,5,Desktop,0,0,Pay on Delivery,Female,0,1,Beauty & Fitness,5,0,3.0,0,0.0,2,115.0,0.0
+0,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+685,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+747,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+422,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1662,5,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,2.0,0,0.0,4,162.0,5989.0
+932,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+824,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+322,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+323,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,282.5,0.0
+1536,7,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,1.0,0,0.0,1,32.0,0.0
+2112,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,81.0,0.0
+2125,2,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,78.0,0.0
+1943,3,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,2,0,2.0,1,0.0,1,113.0,0.0
+405,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2035,3,Desktop,0,0,No Payment Information Required,Female,0,1,Others,1,0,1.0,1,0.0,1,99.0,0.0
+1463,11,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,85.0,0.0
+498,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1817,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,130.0,0.0
+1124,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1782,4,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,138.0,0.0
+923,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1745,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,1,0.0,2,117.0,0.0
+1201,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,2.0,1,0.0,3,41.0,0.0
+1443,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,115.0,0.0
+551,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2031,3,Desktop,0,0,Pay on Delivery,Female,0,1,Others,5,0,1.0,0,0.0,1,99.0,0.0
+774,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1250,12,Desktop,0,0,Pay on Delivery,Female,0,1,Others,3,0,1.0,0,0.0,1,71.0,0.0
+2111,2,Desktop,0,0,Pay Now,Male,0,1,Electronics,2,0,1.0,1,0.0,1,81.0,0.0
+1152,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1021,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+997,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1764,4,Desktop,0,0,Pay on Delivery,Male,0,1,Others,1,0,1.0,1,0.0,1,141.0,0.0
+1500,8,Desktop,0,0,Mips,Male,0,1,Home Appliances,2,0,1.0,1,0.0,2,34.0,0.0
+527,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+398,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+785,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2265,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,45.0,0.0
+336,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+531,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1833,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,0,0.0,4,127.0,9989.0
+32,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+562,12,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,1.0,0,0.0,4,260.0,0.0
+1404,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,2.0,0,0.0,2,65.0,0.0
+2024,3,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,99.0,0.0
+2050,3,Desktop,0,0,Pay Now,Male,0,1,Electronics,1,0,2.0,1,0.0,1,96.0,0.0
+615,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+714,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+381,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+718,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1205,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,0,0.0,3,169.0,0.0
+519,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+465,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1070,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+156,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1193,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,167.0,0.0
+1338,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,1,0.0,2,113.0,0.0
+536,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+175,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1633,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,4,0,5.0,1,0.0,16,166.0,0.0
+1353,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,0,0.0,2,99.0,0.0
+2157,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,72.0,0.0
+579,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1098,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+922,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1804,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,1.0,0,0.0,4,132.0,6989.0
+1356,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,2.0,0,0.0,1,122.0,0.0
+1769,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,2.0,1,0.0,1,141.0,0.0
+907,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1022,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1485,9,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,2,0,2.0,0,0.0,3,66.0,0.0
+196,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1384,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,1,0.0,1,108.0,0.0
+2324,0,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,29.0,0.0
+1323,12,Desktop,0,0,Mips,Male,0,1,Home Appliances,1,0,1.0,1,0.0,2,75.0,0.0
+1762,4,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,142.0,0.0
+2235,1,Desktop,0,0,Pay on Delivery,Female,0,1,Others,1,0,1.0,0,0.0,1,50.0,0.0
+148,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1687,5,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,1,0.0,2,142.0,0.0
+2067,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,92.0,0.0
+930,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+812,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+654,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+168,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+807,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+660,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+444,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1977,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,2.0,1,0.0,1,108.0,0.0
+716,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+835,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1564,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,3.0,0,0.0,4,182.0,8415.0
+904,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2094,2,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,4,0,0.0,1,0.0,1,85.0,0.0
+1113,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1505,8,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,5,0,2.0,1,0.0,2,183.0,0.0
+998,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2077,2,Desktop,0,0,Installment,Male,0,1,Home Appliances,5,0,1.0,1,0.0,2,46.0,0.0
+1852,4,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,0,0.0,2,124.0,0.0
+1272,12,Desktop,0,0,Mips,Female,0,1,Others,5,0,1.0,1,0.0,1,97.0,0.0
+2116,2,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,3,0,1.0,0,0.0,1,80.0,0.0
+1082,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1900,3,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,5,0,1.0,1,0.0,1,119.0,0.0
+648,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+66,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1493,9,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,0,0.0,2,117.0,0.0
+1258,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,1.0,1,0.0,1,106.0,0.0
+658,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1339,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,2.0,1,0.0,1,85.0,0.0
+1992,3,Desktop,0,0,Installment,Male,0,1,Home Appliances,3,0,2.0,0,0.0,1,105.0,0.0
+421,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+479,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1028,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1446,12,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,3.0,1,0.0,5,113.0,0.0
+756,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+734,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+529,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2189,2,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,63.0,0.0
+2188,2,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,63.0,0.0
+2140,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,3.0,0,0.0,1,77.0,0.0
+1710,4,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,2.0,1,0.0,1,109.0,0.0
+1953,3,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,5,0,1.0,1,0.0,1,113.0,0.0
+898,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1254,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,2.0,0,0.0,1,173.0,0.0
+729,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1924,3,Desktop,0,0,Installment,Male,0,1,Home Appliances,5,0,1.0,1,0.0,2,115.0,0.0
+2012,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,5,0,1.0,1,0.0,4,101.0,13989.0
+466,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2054,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,1,0,2.0,1,0.0,2,95.0,18988.0
+372,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1883,3,Desktop,0,0,Mips,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,120.0,0.0
+893,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1644,5,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,2.0,1,0.0,1,165.0,0.0
+2253,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,48.0,0.0
+1163,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+373,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1652,5,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,2.0,0,0.0,1,125.0,0.0
+213,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+663,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1203,12,Desktop,0,0,Installment,Female,0,1,Others,3,0,1.0,1,0.0,1,51.0,0.0
+794,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+94,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1966,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,2,0,1.0,0,0.0,1,111.0,0.0
+165,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2298,1,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,5,0,1.0,0,0.0,1,36.0,0.0
+462,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+822,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+273,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+594,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1107,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1998,3,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,2,0,2.0,1,0.0,1,104.0,0.0
+1788,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,0,0.0,4,137.0,9589.0
+1042,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1374,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,1.0,1,0.0,1,121.0,0.0
+1802,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,133.0,0.0
+554,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+802,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+62,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1941,3,Desktop,0,0,Mips,Female,0,1,Electronics,4,0,2.0,0,0.0,1,114.0,0.0
+1106,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+701,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1078,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1058,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,1.0,0,0.0,0,0.0,0.0
+1359,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,2.0,0,0.0,1,123.0,0.0
+1905,3,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,2.0,0,0.0,1,118.0,0.0
+20,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+831,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+977,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1179,12,Desktop,0,0,Pay Now,Male,0,1,Electronics,5,0,3.0,1,0.0,2,112.0,0.0
+1143,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+443,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+136,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+248,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+330,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1062,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+885,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2262,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Others,1,0,1.0,1,0.0,3,46.0,7489.0
+692,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+959,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2291,1,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,4,0,1.0,0,0.0,5,38.0,2490.0
+2204,1,Desktop,0,0,Mips,Female,0,1,Electronics,2,0,1.0,0,0.0,1,58.0,0.0
+2212,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,56.0,0.0
+1288,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,88.0,0.0
+1597,5,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,0,0.0,1,172.0,0.0
+1719,4,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,1.0,1,0.0,1,150.0,0.0
+965,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1161,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+902,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+111,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2071,2,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,1,0.0,2,90.0,0.0
+721,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1696,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,2,0,0.0,0,0.0,2,146.0,0.0
+1041,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+844,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2093,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,85.0,0.0
+1593,5,Desktop,0,0,No Payment Information Required,Female,0,1,Beauty & Fitness,5,0,1.0,1,0.0,2,173.0,3590.0
+690,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+384,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1901,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,117.0,0.0
+1539,7,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,0,0.0,3,147.0,0.0
+1904,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,117.0,0.0
+123,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1533,7,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,1.0,0,0.0,2,178.0,0.0
+2063,3,Desktop,0,0,Mips,Male,0,1,Electronics,1,0,1.0,0,0.0,1,93.0,0.0
+865,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1734,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,4,147.0,9989.0
+704,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1968,3,Desktop,0,0,Installment,Female,0,1,Home Appliances,1,0,2.0,0,0.0,5,111.0,2589.97
+740,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+895,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,1.0,0,0.0,0,0.0,0.0
+1181,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,176.0,0.0
+1003,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1893,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,119.0,0.0
+766,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+746,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1646,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,2,163.0,0.0
+696,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1784,4,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,0,0.0,2,48.0,0.0
+1577,5,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,2.0,1,0.0,2,179.0,46985.0
+969,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1862,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,123.0,0.0
+929,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+805,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+670,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1860,4,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,2.0,1,0.0,3,124.0,7989.0
+682,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1312,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,78.0,0.0
+1158,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+89,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2227,1,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,3,0,1.0,0,0.0,1,53.0,0.0
+1714,4,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,5,0,1.0,1,0.0,1,151.0,0.0
+1405,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,180.0,0.0
+994,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+771,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+607,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1083,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+510,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2288,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,39.0,0.0
+2064,3,Desktop,0,0,Pay Now,Male,0,1,Others,3,0,1.0,1,0.0,1,93.0,0.0
+1659,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,3,0,1.0,1,0.0,2,77.0,0.0
+1473,10,Desktop,0,0,Installment,Male,0,1,Home Appliances,4,0,1.0,1,0.0,2,111.0,0.0
+1677,5,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,1,0.0,8,159.0,12989.0
+1685,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,157.0,0.0
+1511,8,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,176.0,0.0
+823,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1150,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+703,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+917,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+198,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+150,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2061,3,Desktop,0,0,Pay Now,Male,0,1,Beauty & Fitness,5,0,1.0,0,0.0,1,93.0,0.0
+899,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2028,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,5,0,2.0,0,0.0,1,99.0,0.0
+784,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+305,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+36,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+548,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+645,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1409,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,3.0,1,0.0,2,50.0,0.0
+1950,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,2.0,1,0.0,2,113.0,0.0
+1513,8,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,2.0,1,0.0,2,122.0,0.0
+572,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+218,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+453,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+347,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+204,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+745,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+484,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1915,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,117.0,0.0
+209,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1145,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2147,2,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,5,0,4.0,1,0.0,11,70.0,1490.0
+1284,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,160.0,0.0
+1907,3,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,0,0.0,2,116.0,0.0
+1702,5,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,5,0,2.0,1,0.0,1,153.0,0.0
+1872,3,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,2.0,1,0.0,1,122.0,0.0
+2332,0,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,5,0,2.0,1,0.0,2,5.0,0.0
+419,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1054,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+269,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+530,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+469,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2074,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,89.0,0.0
+1248,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,2.0,0,0.0,11,64.0,0.0
+983,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+138,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+110,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,1.0,1,0.0,0,0.0,0.0
+936,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1410,12,Desktop,0,0,Pay Now,Female,0,1,Others,2,0,1.0,0,0.0,2,43.0,0.0
+1461,11,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,1.0,0,0.0,2,96.0,0.0
+1043,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1479,10,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,2,155.0,0.0
+967,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1237,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,2,0,0.0,1,0.0,1,57.0,0.0
+98,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1251,12,Desktop,0,0,Installment,Female,0,1,Electronics,3,2,0.0,2,0.0,0,1.0,165.0
+2270,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,45.0,0.0
+765,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2256,1,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,4,0,0.0,0,0.0,1,48.0,0.0
+1655,5,Desktop,0,0,Pay Now,Male,0,1,Electronics,3,0,1.0,1,0.0,1,162.0,0.0
+795,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1643,5,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,2.0,1,0.0,13,164.0,7689.0
+839,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1377,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,0,0.0,1,73.0,0.0
+2200,1,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,1,0,1.0,1,0.0,6,60.0,2289.97
+1200,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,0.0,0,0.0,1,145.0,0.0
+1271,12,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,1,79.0,0.0
+2286,1,Desktop,0,0,No Payment Information Required,Female,0,1,Electronics,5,0,2.0,0,0.0,6,39.0,4990.0
+1130,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2091,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,85.0,0.0
+234,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+447,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1283,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,5,0,2.0,0,0.0,1,120.0,0.0
+1579,5,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,1,0.0,1,179.0,0.0
+1245,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,85.0,0.0
+2287,1,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,1,39.0,0.0
+1425,12,Desktop,0,0,Installment,Female,0,1,Others,1,0,1.0,0,0.0,2,148.0,0.0
+1721,4,Desktop,0,0,Mips,Female,0,1,Electronics,4,0,1.0,0,0.0,1,150.0,0.0
+1668,5,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,0,0.0,18,147.0,0.0
+1814,4,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,1.0,0,0.0,1,131.0,0.0
+787,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+943,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+239,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1556,5,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,183.0,0.0
+429,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+882,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1671,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,4.0,1,0.0,7,159.0,14489.0
+1074,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1423,12,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,1.0,1,0.0,2,143.0,0.0
+454,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1273,12,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,0,0.0,1,175.0,0.0
+1927,3,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,2.0,0,0.0,1,115.0,0.0
+1543,6,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,2.0,1,0.0,2,31.0,0.0
+1639,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,1,0.0,3,166.0,0.0
+1133,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+133,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1876,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,1.0,1,0.0,1,119.0,0.0
+926,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1729,4,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,3.0,1,0.0,1,148.0,0.0
+1806,4,Desktop,0,0,Mips,Male,0,1,Home Appliances,3,0,1.0,1,0.0,1,132.0,0.0
+646,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+739,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1838,4,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,1,0.0,1,126.0,0.0
+2199,1,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,1,0.0,1,60.0,0.0
+1208,12,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,2.0,0,0.0,6,115.0,0.0
+411,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+875,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+736,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+847,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+627,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1571,5,Desktop,0,0,Pay Now,Male,0,1,Others,2,0,1.0,1,0.0,3,113.0,0.0
+1367,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,2.0,1,0.0,3,103.0,0.0
+681,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+606,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1917,3,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,3,0,1.0,1,0.0,1,117.0,0.0
+874,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1661,5,Desktop,0,0,Pay Now,Male,0,1,Electronics,1,0,1.0,0,0.0,1,162.0,0.0
+851,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+258,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+702,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1753,4,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,143.0,0.0
+438,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1796,4,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,135.0,0.0
+1051,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+92,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+506,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+698,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+884,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+302,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1285,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,2,113.0,0.0
+91,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1931,3,Desktop,0,0,Mips,Male,0,1,Home Appliances,2,0,1.0,1,0.0,1,115.0,0.0
+2062,3,Desktop,0,0,Pay Now,Male,0,1,Electronics,3,0,1.0,0,0.0,1,93.0,0.0
+686,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1820,4,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,2.0,1,0.0,1,129.0,0.0
+2281,1,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,1.0,0,0.0,1,40.0,0.0
+2290,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,39.0,0.0
+1209,12,Desktop,0,0,Pay Now,Female,0,1,Others,2,0,2.0,1,0.0,1,169.0,0.0
+834,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1523,8,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,2.0,0,0.0,3,85.0,0.0
+2001,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,1,0.0,4,103.0,9989.0
+2087,2,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,2.0,1,0.0,4,86.0,0.0
+814,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+587,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+475,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2011,3,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,5,101.0,0.0
+595,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1225,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,1.0,0,0.0,1,138.0,0.0
+237,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1241,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,42.0,0.0
+515,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+13,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1369,12,Desktop,0,0,Pay on Delivery,Female,0,1,Others,5,0,1.0,1,0.0,1,52.0,0.0
+1763,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,2.0,1,0.0,1,141.0,0.0
+1976,3,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,1.0,1,0.0,3,72.0,0.0
+359,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2072,2,Desktop,0,0,Installment,Male,0,1,Home Appliances,2,0,2.0,1,0.0,1,90.0,0.0
+952,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+374,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+829,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1067,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2300,1,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,33.0,0.0
+460,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+328,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2004,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,103.0,0.0
+1751,4,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,1.0,0,0.0,1,143.0,0.0
+939,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+279,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1491,9,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,1,0.0,2,159.0,0.0
+132,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2084,2,Desktop,0,0,Pay Now,Male,0,1,Electronics,1,0,1.0,1,0.0,1,87.0,0.0
+147,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+170,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+843,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1253,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,0,0.0,1,152.0,0.0
+1993,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,2.0,1,0.0,4,105.0,18988.0
+54,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+251,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1444,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,159.0,0.0
+792,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2279,1,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,2.0,1,0.0,4,41.0,11989.0
+1319,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,75.0,0.0
+2331,0,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,1,0.0,2,6.0,0.0
+254,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1346,12,Desktop,0,0,Pay on Delivery,Female,0,1,Beauty & Fitness,4,0,1.0,1,0.0,3,113.0,0.0
+872,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+361,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+449,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1125,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1069,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1660,5,Desktop,0,0,Mips,Male,0,1,Home Appliances,3,0,1.0,1,0.0,1,162.0,0.0
+1393,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,2.0,1,0.0,1,108.0,0.0
+159,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2202,1,Desktop,0,0,Mips,Female,0,1,Electronics,3,0,2.0,0,0.0,2,58.0,0.0
+1757,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,1.0,1,0.0,2,142.0,0.0
+2169,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,71.0,0.0
+2014,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,2.0,0,0.0,4,75.0,0.0
+855,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2133,2,Desktop,0,0,Mips,Male,0,1,Electronics,2,0,1.0,0,0.0,1,78.0,0.0
+436,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+244,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+318,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+397,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1588,5,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,4.0,0,0.0,4,176.0,0.0
+307,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1264,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,1.0,1,0.0,1,114.0,0.0
+1035,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2226,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,53.0,0.0
+140,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1980,3,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,2.0,0,0.0,1,108.0,0.0
+1604,5,Desktop,0,0,Mips,Male,0,1,Electronics,1,0,1.0,1,0.0,1,171.0,0.0
+1486,9,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,4,68.0,0.0
+927,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+762,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1052,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2036,3,Desktop,0,0,No Payment Information Required,Male,0,1,Electronics,3,0,1.0,0,0.0,1,99.0,0.0
+700,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+75,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+161,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1845,4,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,1,125.0,0.0
+821,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+108,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+232,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+613,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1582,5,Desktop,0,0,Pay Now,Female,0,1,Others,1,0,2.0,1,0.0,1,51.0,0.0
+2217,1,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,1,55.0,0.0
+677,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+644,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+761,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1567,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,181.0,0.0
+1681,5,Desktop,0,0,Pay Now,Male,0,1,Electronics,4,0,1.0,0,0.0,1,158.0,0.0
+1046,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+379,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1679,5,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,4,0,1.0,1,0.0,1,158.0,0.0
+346,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+224,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+155,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+389,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+596,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+867,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2302,1,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,1.0,1,0.0,1,36.0,0.0
+880,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+467,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+744,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1629,5,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,167.0,0.0
+849,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1330,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,0.0,1,0.0,1,141.0,0.0
+629,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1460,11,Desktop,0,0,Mips,Male,0,1,Home Appliances,1,0,1.0,1,0.0,1,127.0,0.0
+2208,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,2.0,1,0.0,1,57.0,0.0
+1247,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,0,0.0,1,141.0,0.0
+1305,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,1,0,1.0,0,0.0,7,136.0,0.0
+2213,1,Desktop,0,0,Pay on Delivery,Female,0,1,Others,3,0,1.0,1,0.0,1,56.0,0.0
+1039,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+873,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+14,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1110,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+504,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1995,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,2.0,1,0.0,1,104.0,85971.0
+352,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2092,2,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,2,0,1.0,0,0.0,1,79.0,0.0
+344,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+688,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1510,8,Desktop,0,0,Bank Transfer Payment,Male,0,1,Others,3,0,1.0,1,0.0,2,80.0,0.0
+592,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+151,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+693,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2164,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,1,0,1.0,1,0.0,1,71.0,0.0
+601,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1672,5,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,5,0,1.0,1,0.0,1,159.0,0.0
+2196,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,2.0,1,0.0,2,61.0,0.0
+281,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1060,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2180,2,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,4,0,1.0,0,0.0,4,66.0,12989.0
+1970,3,Desktop,0,0,No Payment Information Required,Female,0,1,Electronics,3,0,2.0,1,0.0,4,110.0,1852.0
+634,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1183,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,125.0,0.0
+1889,3,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,5,0,2.0,1,0.0,1,120.0,0.0
+2019,3,Desktop,0,0,No Payment Information Required,Female,0,1,Electronics,4,0,1.0,0,0.0,1,100.0,0.0
+1690,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,2.0,1,0.0,1,155.0,0.0
+1517,8,Desktop,0,0,Mips,Female,0,1,Others,5,0,2.0,1,0.0,2,36.0,0.0
+1169,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+238,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1469,10,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,2,65.0,0.0
+192,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1774,4,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,2,0,1.0,1,0.0,1,140.0,0.0
+2306,1,Desktop,0,0,Installment,Female,0,1,Others,5,0,2.0,0,0.0,1,35.0,0.0
+620,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2165,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,71.0,0.0
+911,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+84,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1087,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+311,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+212,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2260,1,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,1.0,1,0.0,1,47.0,0.0
+2089,2,Desktop,0,0,Mips,Female,0,1,Electronics,2,0,1.0,0,0.0,1,85.0,0.0
+2254,1,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,48.0,0.0
+1025,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1881,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,121.0,0.0
+1682,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Others,3,0,2.0,1,0.0,4,157.0,5989.0
+1321,12,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,2.0,1,0.0,3,136.0,0.0
+226,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2002,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,4,0,1.0,0,0.0,1,103.0,0.0
+1322,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,126.0,0.0
+651,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+546,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2162,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,71.0,0.0
+1897,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,1,0.0,4,119.0,9989.0
+2185,2,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,1,0.0,1,64.0,0.0
+1445,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,3,74.0,0.0
+2264,1,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,2.0,1,0.0,1,46.0,0.0
+2142,2,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,1,0.0,3,76.0,8989.0
+401,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1857,4,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,1.0,0,0.0,1,124.0,0.0
+2060,3,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,1,0.0,3,91.0,0.0
+1632,5,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,1,0.0,6,146.0,0.0
+1921,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,116.0,0.0
+1609,5,Desktop,0,0,Pay Now,Male,0,1,Others,3,0,2.0,0,0.0,1,140.0,0.0
+2299,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,2,36.0,0.0
+1886,3,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,120.0,0.0
+1808,4,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,1.0,1,0.0,4,132.0,9989.0
+1541,6,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,1,0.0,2,162.0,0.0
+3,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2283,1,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,2.0,1,0.0,1,40.0,0.0
+1664,5,Desktop,0,0,Installment,Male,0,1,Home Appliances,5,0,2.0,0,0.0,2,161.0,0.0
+803,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+815,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1122,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+72,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1072,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,1.0,0,0.0,0,0.0,0.0
+800,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+157,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2201,1,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,2,0,1.0,0,0.0,1,59.0,0.0
+1086,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,2.0,0,0.0,1,282.5,0.0
+418,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1538,7,Desktop,0,0,Mips,Female,0,1,Others,4,0,1.0,0,0.0,2,71.0,0.0
+1607,5,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,1.0,0,0.0,6,70.0,0.0
+1882,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,121.0,0.0
+2079,2,Desktop,0,0,No Payment Information Required,Female,0,1,Electronics,5,0,1.0,1,0.0,5,88.0,3990.0
+1983,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,1,108.0,0.0
+1686,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,2.0,1,0.0,2,156.0,0.0
+1929,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,115.0,0.0
+890,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,0.0,1,0.0,1,202.0,0.0
+1228,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,105.0,0.0
+1957,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,2.0,0,0.0,1,113.0,0.0
+210,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1290,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,78.0,0.0
+1402,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,78.0,0.0
+167,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1324,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,3.0,0,0.0,1,119.0,0.0
+2095,2,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,85.0,0.0
+1725,4,Desktop,0,0,Pay Now,Male,0,1,Electronics,5,0,0.0,1,0.0,1,145.0,0.0
+1313,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,1,0.0,2,134.0,0.0
+2103,2,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,1.0,0,0.0,2,83.0,0.0
+1603,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,1,0,1.0,1,0.0,3,171.0,0.0
+412,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+860,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2154,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,3,73.0,7989.0
+791,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1398,12,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,3.0,0,0.0,1,112.0,0.0
+1084,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+668,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+324,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1903,3,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,118.0,0.0
+173,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1370,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,2,0,2.0,1,0.0,5,117.0,0.0
+1771,4,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,141.0,0.0
+1996,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,0,0.0,1,104.0,0.0
+2294,1,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,2.0,0,0.0,7,35.0,0.0
+17,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1276,12,Desktop,0,0,Mips,Female,0,1,Others,5,0,1.0,0,0.0,1,155.0,0.0
+678,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2070,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,2.0,1,0.0,3,91.0,79472.0
+1880,3,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,2.0,1,0.0,1,121.0,0.0
+1073,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1599,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,1,0,2.0,0,0.0,3,172.0,0.0
+487,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1658,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,5,0,1.0,1,0.0,1,162.0,0.0
+1863,4,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,4,0,2.0,0,0.0,1,123.0,0.0
+12,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1650,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,4,0,5.0,1,0.0,5,163.0,0.0
+486,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2220,1,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,1.0,0,0.0,3,54.0,0.0
+456,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1713,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,1,0.0,4,151.0,9989.0
+1053,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1132,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+894,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1716,4,Desktop,0,0,Installment,Female,0,1,Others,5,0,1.0,0,0.0,1,151.0,0.0
+182,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1490,9,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,1.0,1,0.0,4,138.0,13989.0
+1416,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,2,57.0,0.0
+1458,11,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,2.0,0,0.0,2,67.0,0.0
+2234,1,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,1.0,0,0.0,1,51.0,0.0
+262,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1641,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,2.0,1,0.0,4,165.0,0.0
+2114,2,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,1.0,1,0.0,1,81.0,0.0
+1549,6,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,2,0,2.0,1,0.0,1,182.0,0.0
+980,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+735,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+571,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1270,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,127.0,0.0
+1390,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,0.0,0,0.0,1,102.0,0.0
+2323,0,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,29.0,0.0
+49,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+850,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+772,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+317,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2193,1,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,2.0,1,0.0,1,61.0,0.0
+1890,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,1,0.0,4,119.0,7989.0
+1427,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,28.0,0.0
+2163,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,1,0,3.0,1,0.0,1,71.0,0.0
+570,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2020,3,Desktop,0,0,Pay Now,Male,0,1,Electronics,5,0,1.0,1,0.0,1,99.0,0.0
+2170,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,2.0,1,0.0,2,65.0,0.0
+1935,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,114.0,0.0
+1675,5,Desktop,0,0,Installment,Male,0,1,Electronics,1,0,1.0,0,0.0,1,159.0,0.0
+1467,11,Desktop,0,0,Installment,Male,0,1,Others,4,0,1.0,0,0.0,2,40.0,0.0
+1792,4,Desktop,0,0,Mips,Female,0,1,Electronics,1,0,0.0,1,0.0,1,136.0,0.0
+1574,5,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,5,0,2.0,1,0.0,1,179.0,0.0
+1037,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+249,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1157,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2316,1,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,0,0.0,3,33.0,0.0
+767,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+142,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1063,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1495,9,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,2.0,1,0.0,2,57.0,0.0
+560,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2221,1,Desktop,0,0,Installment,Female,0,1,Others,4,0,1.0,0,0.0,2,32.0,0.0
+289,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+118,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2330,0,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,1.0,1,0.0,3,6.0,0.0
+1816,4,Desktop,0,0,No Payment Information Required,Female,0,1,Others,5,0,2.0,1,0.0,4,130.0,978.97
+292,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1166,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+848,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2242,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,5,0,2.0,0,0.0,1,50.0,0.0
+1871,3,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,2.0,0,0.0,1,122.0,0.0
+1118,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1861,4,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,4,123.0,6989.0
+1040,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2297,1,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,2.0,1,0.0,1,36.0,0.0
+1676,5,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,2,0,2.0,0,0.0,1,159.0,0.0
+754,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1728,4,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,1,148.0,0.0
+722,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1761,4,Desktop,0,0,Bank Transfer Payment,Female,0,1,Others,1,0,1.0,1,0.0,1,141.0,0.0
+1117,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1387,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,2.0,1,0.0,4,29.0,0.0
+1001,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+790,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1071,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+227,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+2007,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,102.0,0.0
+569,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+115,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+349,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+275,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+235,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+368,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+533,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+128,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+114,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+799,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1177,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,50.0,0.0
+1697,5,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,1,0.0,1,154.0,0.0
+2329,0,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,2.0,1,0.0,1,28.0,0.0
+1233,12,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,0.0,0,0.0,1,41.0,0.0
+245,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1557,5,Desktop,0,0,Pay on Delivery,Female,0,1,Others,3,0,2.0,0,0.0,1,113.0,0.0
+813,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2122,2,Desktop,0,0,Mips,Female,0,1,Electronics,4,0,1.0,1,0.0,1,78.0,0.0
+2166,2,Desktop,0,0,Mips,Female,0,1,Others,3,0,1.0,0,0.0,1,71.0,0.0
+2266,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,2.0,1,0.0,3,45.0,17988.0
+687,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+832,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1453,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,1.0,1,0.0,5,100.0,0.0
+1434,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,144.0,0.0
+935,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+470,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1856,4,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,4,0,2.0,1,0.0,1,124.0,0.0
+1194,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,1,0,4.0,0,0.0,7,179.0,0.0
+1892,3,Desktop,0,0,Pay Now,Female,0,1,Others,2,0,2.0,0,0.0,1,119.0,0.0
+1590,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,1,0.0,7,174.0,29987.0
+1424,12,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,1,78.0,0.0
+797,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,1.0,1,0.0,0,0.0,0.0
+1704,4,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,1,0,1.0,0,0.0,1,152.0,0.0
+2247,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,50.0,0.0
+2041,3,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,1,0.0,1,98.0,0.0
+488,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+362,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1334,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,2.0,0,0.0,1,182.0,0.0
+228,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+233,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1029,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+715,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+291,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+339,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+316,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+753,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1268,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,159.0,0.0
+888,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+779,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1300,12,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,2.0,1,0.0,4,151.0,0.0
+1587,5,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,1,176.0,0.0
+1879,3,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,2.0,1,0.0,1,121.0,0.0
+1894,3,Desktop,0,0,Mips,Male,0,1,Home Appliances,3,0,0.0,0,0.0,1,119.0,0.0
+2251,1,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,49.0,0.0
+471,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+82,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1297,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,1.0,0,0.0,3,104.0,0.0
+955,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1170,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+95,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2128,2,Desktop,0,0,Mips,Male,0,1,Home Appliances,1,0,2.0,0,0.0,1,78.0,0.0
+1175,12,Desktop,0,0,Pay Now,Male,0,1,Beauty & Fitness,1,0,1.0,1,0.0,1,62.0,0.0
+1642,5,Desktop,0,0,Pay Now,Female,0,1,Beauty & Fitness,3,0,2.0,1,0.0,1,165.0,0.0
+1476,10,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,1,0,1.0,1,0.0,3,86.0,0.0
+1080,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+410,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+995,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1411,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,2,173.0,0.0
+910,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1105,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1678,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,1,0,5.0,0,0.0,7,159.0,5989.0
+2013,3,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,0.0,0,0.0,1,101.0,0.0
+1700,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,1,0,1.0,1,0.0,5,107.0,0.0
+538,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+380,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+526,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1332,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,4,0,2.0,0,0.0,1,139.0,0.0
+1088,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+946,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1441,12,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,2.0,1,0.0,1,43.0,0.0
+1329,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,82.0,0.0
+1492,9,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,2.0,0,0.0,1,113.0,0.0
+971,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+87,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2289,1,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,39.0,0.0
+689,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1709,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,152.0,0.0
+1451,12,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,2,0,2.0,0,0.0,2,79.0,0.0
+1628,5,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,0,0.0,1,168.0,0.0
+1406,12,Desktop,0,0,Mips,Male,0,1,Home Appliances,2,0,1.0,0,0.0,1,36.0,0.0
+584,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1535,7,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,5,0,1.0,0,0.0,2,175.0,0.0
+1781,4,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,5.0,0,0.0,14,138.0,0.0
+2173,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,69.0,0.0
+727,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2098,2,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,2,0,3.0,1,0.0,1,84.0,0.0
+1563,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,0,0.0,1,182.0,0.0
+1988,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,2.0,1,0.0,1,106.0,0.0
+657,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1009,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1572,5,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,2,0,2.0,1,0.0,1,180.0,0.0
+521,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+431,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1340,12,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,0,0.0,2,147.0,0.0
+116,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+183,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+630,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+458,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1827,4,Desktop,0,0,Mips,Male,0,1,Electronics,4,0,1.0,1,0.0,1,127.0,0.0
+818,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+992,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1899,3,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,2.0,1,0.0,1,119.0,0.0
+270,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1381,12,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,1,0.0,7,159.0,0.0
+1693,5,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,1.0,0,0.0,4,154.0,13989.0
+1168,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+117,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1262,12,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,1,0.0,1,120.0,0.0
+1149,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1138,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1973,3,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,4,0,1.0,1,0.0,1,109.0,0.0
+1649,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,163.0,0.0
+496,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1870,3,Desktop,0,0,Pay on Delivery,Male,0,1,Others,3,0,2.0,1,0.0,1,122.0,0.0
+461,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+603,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1246,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,154.0,0.0
+809,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1961,3,Desktop,0,0,Mips,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,112.0,0.0
+459,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1365,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,1.0,1,0.0,1,92.0,0.0
+2144,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,1.0,0,0.0,3,75.0,11989.0
+1849,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,1.0,1,0.0,1,125.0,0.0
+1101,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1137,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+428,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1126,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2129,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,5,0,2.0,0,0.0,1,78.0,0.0
+706,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+220,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+264,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+671,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2135,2,Desktop,0,0,Bank Transfer Payment,Female,0,1,Home Appliances,5,0,2.0,0,0.0,1,78.0,0.0
+480,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+383,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2301,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,36.0,0.0
+124,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+891,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1261,12,Desktop,0,0,Pay Now,Male,0,1,Electronics,1,0,1.0,1,0.0,1,80.0,0.0
+638,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+913,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1455,12,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,5,0,1.0,1,0.0,5,160.0,0.0
+1512,8,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,1.0,1,0.0,4,99.0,0.0
+512,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+113,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1742,4,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,1,0,3.0,1,0.0,3,145.0,0.0
+1666,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,0,0.0,1,161.0,0.0
+2045,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,97.0,0.0
+1735,4,Desktop,0,0,Pay Now,Male,0,1,Beauty & Fitness,3,0,1.0,0,0.0,1,147.0,0.0
+1265,12,Desktop,0,0,Installment,Female,0,1,Others,4,0,2.0,0,0.0,1,150.0,0.0
+257,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+200,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+854,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2197,1,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,1,41.0,0.0
+197,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+542,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+27,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1431,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,117.0,0.0
+2021,3,Desktop,0,0,Installment,Male,0,1,Electronics,2,0,1.0,0,0.0,1,99.0,0.0
+1354,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,2.0,0,0.0,7,95.0,0.0
+221,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+691,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+841,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+478,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2311,1,Desktop,0,0,Installment,Female,0,1,Others,5,0,1.0,1,0.0,1,34.0,0.0
+1527,7,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,5,0,1.0,1,0.0,8,149.0,0.0
+1360,12,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,0,0.0,9,119.0,0.0
+145,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1801,4,Desktop,0,0,No Payment Information Required,Male,0,1,Home Appliances,5,0,1.0,1,0.0,51,132.0,2990.0
+1888,3,Desktop,0,0,Installment,Male,0,1,Home Appliances,4,0,2.0,1,0.0,1,120.0,0.0
+2047,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,2.0,0,0.0,3,97.0,14579.0
+1670,5,Desktop,0,0,Installment,Male,0,1,Home Appliances,2,0,2.0,0,0.0,6,160.0,0.0
+1773,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,5,0,1.0,1,0.0,6,140.0,7989.0
+2310,1,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,34.0,0.0
+1972,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,109.0,0.0
+968,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1292,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,181.0,0.0
+41,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+86,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1525,8,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,3,0,1.0,1,0.0,2,85.0,0.0
+1401,12,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,4,0,1.0,1,0.0,1,163.0,0.0
+355,12,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,3,0,1.0,1,0.0,1,216.0,0.0
+207,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1311,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,2,0,1.0,0,0.0,1,138.0,0.0
+513,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,1.0,1,0.0,2,249.0,0.0
+1559,5,Desktop,0,0,Installment,Male,0,1,Home Appliances,1,0,2.0,1,0.0,3,183.0,0.0
+1971,3,Desktop,0,0,Mips,Female,0,1,Electronics,3,0,1.0,0,0.0,1,109.0,0.0
+400,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+247,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1206,12,Desktop,0,0,Mips,Female,0,1,Electronics,1,0,1.0,0,0.0,1,112.0,0.0
+1050,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1430,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,1,0,1.0,1,0.0,1,158.0,0.0
+757,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2211,1,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,2,0,1.0,0,0.0,5,57.0,2490.0
+1521,8,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,0,0.0,3,151.0,0.0
+763,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1595,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,1.0,1,0.0,1,173.0,0.0
+1934,3,Desktop,0,0,Mips,Male,0,1,Home Appliances,1,0,1.0,0,0.0,1,114.0,0.0
+864,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+563,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+2033,3,Desktop,0,0,Pay on Delivery,Female,0,1,Others,2,0,2.0,1,0.0,1,99.0,0.0
+1720,4,Desktop,0,0,Pay Now,Male,0,1,Others,1,0,1.0,1,0.0,1,150.0,0.0
+1018,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1306,12,Desktop,0,0,Pay Now,Female,0,1,Others,2,0,1.0,1,0.0,1,113.0,0.0
+131,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2065,3,Desktop,0,0,Mips,Male,0,1,Electronics,2,0,2.0,1,0.0,2,92.0,0.0
+1828,4,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,5,0,2.0,1,0.0,2,127.0,0.0
+231,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+776,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+327,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2244,1,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,1,50.0,0.0
+576,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+382,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2008,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,102.0,0.0
+928,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+353,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,1.0,0,0.0,1,282.5,0.0
+28,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2053,3,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,1,0.0,2,90.0,0.0
+2159,2,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,71.0,0.0
+1501,8,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,4,0,1.0,1,0.0,2,71.0,0.0
+1918,3,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,3,0,2.0,0,0.0,5,116.0,2190.0
+104,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1190,12,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,0,0.0,1,90.0,0.0
+485,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+73,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1289,12,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,92.0,0.0
+1691,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,1,0.0,1,155.0,0.0
+1999,3,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,5,0,1.0,0,0.0,1,104.0,0.0
+341,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+611,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2055,3,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,5,0,2.0,0,0.0,3,95.0,70983.0
+33,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+948,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,1.0,0,0.0,1,257.0,0.0
+38,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1869,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,2.0,0,0.0,1,119.0,0.0
+2218,1,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,1.0,0,0.0,3,55.0,11989.0
+1601,5,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,3,0,0.0,1,0.0,1,172.0,0.0
+1196,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,1,0,2.0,1,0.0,1,131.0,0.0
+695,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1576,5,Desktop,0,0,Installment,Male,0,1,Home Appliances,1,0,3.0,1,0.0,3,178.0,0.0
+1923,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,4,0,3.0,0,0.0,1,116.0,9989.0
+1031,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+699,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+853,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1634,5,Desktop,0,0,Mips,Male,0,1,Home Appliances,4,0,1.0,0,0.0,1,166.0,0.0
+216,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+2219,1,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,2.0,0,0.0,1,55.0,0.0
+1775,4,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,2,0,1.0,1,0.0,6,140.0,0.0
+1737,4,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,2.0,0,0.0,1,147.0,0.0
+517,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1991,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,105.0,0.0
+949,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+30,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+255,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,1.0,1,0.0,1,282.5,0.0
+1913,3,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,1.0,1,0.0,3,28.0,0.0
+34,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+871,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1032,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+990,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2148,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,3.0,0,0.0,1,75.0,7989.0
+883,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2187,2,Desktop,0,0,No Payment Information Required,Female,0,1,Home Appliances,3,0,1.0,0,0.0,6,63.0,1589.97
+184,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+403,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+989,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1551,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,1,0,2.0,1,0.0,1,183.0,0.0
+1718,4,Desktop,0,0,Pay on Delivery,Male,0,1,Others,5,0,2.0,1,0.0,4,150.0,5989.0
+1598,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,1.0,0,0.0,1,172.0,0.0
+769,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2269,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,2.0,0,0.0,2,45.0,0.0
+1580,5,Desktop,0,0,Pay Now,Male,0,1,Electronics,5,0,1.0,0,0.0,1,178.0,0.0
+1777,4,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,4.0,0,0.0,4,140.0,0.0
+356,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1526,8,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,1,0.0,2,31.0,0.0
+2115,2,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,1,0.0,1,80.0,0.0
+96,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1591,5,Desktop,0,0,Mips,Female,0,1,Others,1,0,2.0,0,0.0,1,174.0,0.0
+107,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+617,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+278,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2271,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,3,0,1.0,0,0.0,1,38.0,0.0
+1057,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2278,1,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,4,0,2.0,1,0.0,1,42.0,0.0
+2216,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,2.0,1,0.0,1,55.0,0.0
+759,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1790,4,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,3,0,1.0,0,0.0,1,136.0,0.0
+88,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+2101,2,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,1,0,1.0,0,0.0,2,82.0,0.0
+337,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1212,12,Desktop,0,0,Mips,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,55.0,0.0
+205,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+176,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+564,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+2030,3,Desktop,0,0,No Payment Information Required,Male,0,1,Home Appliances,3,0,2.0,0,0.0,2,99.0,0.0
+2177,2,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,2.0,1,0.0,1,68.0,0.0
+1484,9,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,1,42.0,0.0
+1741,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,145.0,0.0
+1081,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2183,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,4,0,2.0,1,0.0,1,65.0,0.0
+287,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1637,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,1.0,1,0.0,1,166.0,0.0
+618,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1611,5,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,2.0,0,0.0,2,170.0,0.0
+320,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1103,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+500,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+511,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+423,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+976,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1547,6,Desktop,0,0,Mips,Male,0,1,Others,2,0,1.0,1,0.0,1,50.0,0.0
+1487,9,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,0,0.0,3,183.0,0.0
+1298,12,Desktop,0,0,Mips,Female,0,1,Electronics,4,0,2.0,1,0.0,1,163.0,0.0
+625,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+450,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+164,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+963,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1026,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+661,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+2149,2,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,2.0,0,0.0,1,75.0,0.0
+71,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1061,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1090,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+23,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+752,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1399,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,2.0,1,0.0,5,106.0,0.0
+593,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1985,3,Desktop,0,0,Pay Now,Male,0,1,Electronics,4,0,2.0,0,0.0,1,107.0,0.0
+1341,12,Desktop,0,0,Installment,Female,0,1,Electronics,2,0,1.0,1,0.0,2,46.0,0.0
+43,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+6,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+437,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1108,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1963,3,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,3,0,1.0,1,0.0,1,112.0,0.0
+68,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1695,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,5,0,2.0,1,0.0,5,154.0,0.0
+1765,4,Desktop,0,0,Pay on Delivery,Female,0,1,Others,3,0,1.0,1,0.0,1,141.0,0.0
+1960,3,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,2.0,0,0.0,2,109.0,0.0
+160,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1786,4,Desktop,0,0,Pay on Delivery,Female,0,1,Others,4,0,1.0,0,0.0,4,137.0,5989.0
+1436,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,1.0,1,0.0,1,130.0,0.0
+2307,1,Desktop,0,0,Mips,Female,0,1,Beauty & Fitness,2,0,1.0,1,0.0,1,35.0,0.0
+1873,3,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,5,0,1.0,0,0.0,1,122.0,0.0
+545,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1439,12,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,3,0,1.0,1,0.0,1,151.0,0.0
+1922,3,Desktop,0,0,Installment,Female,0,1,Electronics,5,0,2.0,0,0.0,4,116.0,39986.0
+1776,4,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,1.0,1,0.0,1,140.0,0.0
+2046,3,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,2.0,1,0.0,4,97.0,7989.0
+1358,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,1.0,0,0.0,2,50.0,0.0
+1114,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+673,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2309,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,5,0,2.0,1,0.0,4,34.0,9989.0
+1202,12,Desktop,0,0,Pay Now,Male,0,1,Electronics,4,0,1.0,0,0.0,1,113.0,0.0
+1171,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+666,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1227,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,3,0,2.0,0,0.0,1,79.0,0.0
+171,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+502,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+180,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+725,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1937,3,Desktop,0,0,Pay on Delivery,Male,0,1,Home Appliances,4,0,1.0,0,0.0,1,114.0,0.0
+2080,2,Desktop,0,0,Pay Now,Male,0,1,Electronics,2,0,1.0,0,0.0,1,88.0,0.0
+988,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1722,4,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,2.0,1,0.0,1,139.0,0.0
+1554,5,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,2,0,1.0,0,0.0,1,183.0,0.0
+375,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1800,4,Desktop,0,0,Pay on Delivery,Female,0,1,Others,1,0,3.0,0,0.0,3,134.0,5989.0
+1089,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+1344,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,4,0,2.0,0,0.0,1,62.0,0.0
+178,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2313,1,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,2,0,1.0,0,0.0,4,34.0,11989.0
+1919,3,Desktop,0,0,Installment,Male,0,1,Electronics,3,0,2.0,0,0.0,5,59.0,0.0
+326,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1865,4,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,2.0,0,0.0,2,113.0,0.0
+441,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1433,12,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,0,0.0,2,175.0,0.0
+1135,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+1665,5,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,5,0,2.0,1,0.0,1,161.0,0.0
+97,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1280,12,Desktop,0,0,Mips,Female,0,1,Electronics,1,0,1.0,0,0.0,1,171.0,0.0
+1165,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1906,3,Desktop,0,0,Pay Now,Male,0,1,Home Appliances,3,0,2.0,0,0.0,1,118.0,0.0
+1314,12,Desktop,0,0,Installment,Female,0,1,Beauty & Fitness,2,0,0.0,1,0.0,1,96.0,0.0
+1480,10,Desktop,0,0,Installment,Male,0,1,Electronics,5,0,2.0,0,0.0,15,53.0,0.0
+1394,12,Desktop,0,0,Pay Now,Female,0,1,Electronics,5,0,2.0,0,0.0,2,120.0,0.0
+1378,12,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,2,0,3.0,1,0.0,2,78.0,0.0
+2151,2,Desktop,0,0,Installment,Female,0,1,Electronics,1,0,3.0,1,0.0,1,65.0,0.0
+338,12,Desktop,0,0,No Payment,Male,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+426,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+77,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+1013,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2186,2,Desktop,0,0,Installment,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,64.0,0.0
+1448,12,Desktop,0,0,Installment,Female,0,1,Home Appliances,4,0,1.0,0,0.0,1,127.0,0.0
+174,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,0,0.0,0,0.0,0.0
+434,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+637,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,0,0.0,0,0.0,0.0
+903,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+877,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+395,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+1683,5,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,4,0,2.0,1,0.0,1,157.0,0.0
+1887,3,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,0,0.0,1,120.0,0.0
+2141,2,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,5,0,0.0,1,0.0,1,76.0,0.0
+2052,3,Desktop,0,0,Bank Transfer Payment,Male,0,1,Home Appliances,4,0,1.0,0,0.0,1,96.0,0.0
+1295,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Beauty & Fitness,3,0,1.0,0,0.0,2,181.0,0.0
+1293,12,Desktop,0,0,Bank Transfer Payment,Female,0,1,Electronics,1,0,5.0,1,0.0,16,124.0,0.0
+1045,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2126,2,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,5,0,1.0,1,0.0,1,78.0,0.0
+724,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+641,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+826,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2150,2,Desktop,0,0,Mips,Female,0,1,Electronics,1,0,1.0,1,0.0,1,74.0,0.0
+277,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+2237,1,Desktop,0,0,Pay Now,Female,0,1,Home Appliances,4,0,1.0,0,0.0,2,40.0,0.0
+543,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,1,0.0,0,0.0,0.0
+1259,12,Desktop,0,0,Mips,Male,0,1,Electronics,5,0,1.0,1,0.0,1,103.0,0.0
+996,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1645,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,1,0,1.0,1,0.0,1,164.0,0.0
+1442,12,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,1,0.0,1,180.0,0.0
+918,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+2023,3,Desktop,0,0,Pay on Delivery,Male,0,1,Electronics,1,0,1.0,0,0.0,1,99.0,0.0
+1172,12,Desktop,0,0,Installment,Female,0,1,Electronics,3,0,1.0,0,0.0,1,136.0,0.0
+1156,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+163,12,Desktop,0,0,No Payment,Male,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+76,12,Desktop,0,0,No Payment,Male,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+1466,11,Desktop,0,0,Mips,Female,0,1,Home Appliances,3,0,2.0,0,0.0,8,125.0,0.0
+674,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1914,3,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,1.0,1,0.0,1,117.0,0.0
+1555,5,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,3,0,2.0,0,0.0,1,183.0,0.0
+309,12,Desktop,0,0,No Payment,Female,0,1,No Order,1,0,0.0,1,0.0,0,0.0,0.0
+796,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+122,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,1,0.0,0,0.0,0.0
+2038,3,Desktop,0,0,No Payment Information Required,Female,0,1,Electronics,1,0,1.0,1,0.0,1,99.0,0.0
+1739,4,Desktop,0,0,Bank Transfer Payment,Male,0,1,Electronics,3,0,2.0,1,0.0,1,146.0,0.0
+476,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+179,12,Desktop,0,0,No Payment,Male,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+1129,12,Desktop,0,0,No Payment,Female,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+957,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+2246,1,Desktop,0,0,Mips,Female,0,1,Electronics,2,0,1.0,1,0.0,1,50.0,0.0
+2179,2,Desktop,0,0,Installment,Female,0,1,Electronics,4,0,1.0,0,0.0,3,61.0,0.0
+1260,12,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,3,0,2.0,0,0.0,1,43.0,0.0
+282,12,Desktop,0,0,No Payment,Female,0,1,No Order,3,0,0.0,0,0.0,0,0.0,0.0
+407,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,1,0.0,0,0.0,0.0
+1625,5,Desktop,0,0,Pay on Delivery,Female,0,1,Home Appliances,2,0,5.0,1,0.0,4,168.0,0.0
+243,12,Desktop,0,0,No Payment,Male,0,1,No Order,4,0,0.0,0,0.0,0,0.0,0.0
+321,12,Desktop,0,0,No Payment,Female,0,1,No Order,5,0,0.0,0,0.0,0,0.0,0.0
+1104,12,Desktop,0,0,Pay on Delivery,Female,0,1,Electronics,2,0,2.0,1,0.0,2,282.5,0.0
+931,12,Desktop,0,0,No Payment,Female,0,1,No Order,2,0,0.0,1,0.0,0,0.0,0.0
+1984,3,Desktop,0,0,Installment,Male,0,1,Electronics,4,0,1.0,1,0.0,1,107.0,0.0
