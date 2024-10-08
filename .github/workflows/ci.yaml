@@ -33,7 +33,7 @@ jobs:
 
       - name: Pull DVC data
         run: |
-          dvc pull  # Pull the data from remote storage
+          dvc pull --force  # Pull the data from remote storage
 
 
       - name: Run pipeline
