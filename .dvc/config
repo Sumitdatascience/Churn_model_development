@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = C:\Users\SUMIT\AppData\Local\Temp
+    url = s3://churncssoft
