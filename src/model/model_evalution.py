@@ -256,7 +256,9 @@ def main():
         log_metrics_to_mlflow(metrics_dict)
 
         # Log artifacts to MLflow (metrics and model)
-        log_artifacts_to_mlflow("metrics.json", "model.pkl")
+        # log_artifacts_to_mlflow("metrics.json", "model.pkl")
+        log_artifacts_to_mlflow("metrics.json", "models/model.pkl")
+
 
         # Save experiment info (run ID and model path) to the reports folder
         save_experiment_info(run_id, "model", "./reports/experiment_info.json")
