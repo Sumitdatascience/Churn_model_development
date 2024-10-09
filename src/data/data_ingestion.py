@@ -19,7 +19,8 @@ def save_data(data_path: str, df: pd.DataFrame) -> None:
 
 # Main function to load and save data
 def main() -> None:
-    df = load_data(os.path.join("data", "customer_data_model_refined.csv"))
+    df = load_data('data/customer_data_model_refined.csv')
+    # df = load_data(os.path.join("data", "customer_data_model_refined.csv"))
 
     data_path = os.path.join("data", "raw")
     
