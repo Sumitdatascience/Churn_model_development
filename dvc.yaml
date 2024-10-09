@@ -4,6 +4,7 @@ stages:
     deps:
     - src/data/data_ingestion.py
     outs:
+    - data/external
     - data/raw
 
   data_preprocessing:
