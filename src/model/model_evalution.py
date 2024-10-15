@@ -150,6 +150,7 @@ mlflow.set_tracking_uri(f'{dagshub_url}/{repo_owner}/{repo_name}.mlflow')
 
 # Load the trained model
 def load_model(model_path: str):
+
     with open(model_path, 'rb') as file:
         model = pickle.load(file)
     print(f"Model loaded from {model_path}")
@@ -158,6 +159,16 @@ def load_model(model_path: str):
 
 # Load test data
 def load_test_data(x_test_path: str, y_test_path: str):
+
+    print(f"Loading x_test from {x_test_path}")
+    print(f"Loading y_test from {y_test_path}")
+    
+    if not os.path.exists(x_test_path):
+        raise FileNotFoundError(f"{x_test_path} not found.")
+    if not os.path.exists(y_test_path):
+        raise FileNotFoundError(f"{y_test_path} not found.")
+    
+
     x_test = pd.read_csv(
         x_test_path,
         usecols=['Tenure', 'PreferredLoginDevice', 'CityTier', 'WarehouseToHome', 'PreferredPaymentMode', 'Gender', 'HourSpendOnApp', 'NumberOfDeviceRegistered', 'PreferredOrderCat', 'SatisfactionScore', 'MaritalStatus', 'NumberOfAddress', 'Complain', 'OrderAmountHikeFromLastYear', 'OrderCount', 'DaySinceLastOrder', 'CashbackAmount']
@@ -240,15 +251,24 @@ def main():
         # Load model
         model = load_model('models/model.pkl')
 
+        x_test_path = os.path.join("data", "processed", "x_test.csv") 
+        y_test_path = os.path.join("data", "processed", "y_test.csv")
+
         # Load test data
-        x_test, y_test = load_test_data(
-            r'.\data\processed\x_test.csv',
-            r'.\data\processed\y_test.csv'
-        )
+        # x_test, y_test = load_test_data(
+        #     r'.\data\processed\x_test.csv',
+        #     r'.\data\processed\y_test.csv'
+        # )
+         
+        # Load the data
+        x_test, y_test = load_test_data(x_test_path, y_test_path) 
+
+        # x_test_path = os.path.join("data", "processed", "x_test.csv")
+        # y_test_path = os.path.join("data", "processed", "y_test.csv")
 
         # Create an input example (using the first row of the test data)
-        input_example = x_test.head(1)
-        print(input_example)
+        # input_example = x_test.head(1)
+        # print(input_example)
 
         # Generate predictions
         y_pred = predict(model, x_test)
