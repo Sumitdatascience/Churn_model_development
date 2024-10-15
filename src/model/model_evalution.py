@@ -162,7 +162,7 @@ def load_test_data(x_test_path: str, y_test_path: str):
 
     print(f"Loading x_test from {x_test_path}")
     print(f"Loading y_test from {y_test_path}")
-    
+
     if not os.path.exists(x_test_path):
         raise FileNotFoundError(f"{x_test_path} not found.")
     if not os.path.exists(y_test_path):
@@ -267,8 +267,8 @@ def main():
         # y_test_path = os.path.join("data", "processed", "y_test.csv")
 
         # Create an input example (using the first row of the test data)
-        # input_example = x_test.head(1)
-        # print(input_example)
+        input_example = x_test.head(1)
+        print(input_example)
 
         # Generate predictions
         y_pred = predict(model, x_test)
