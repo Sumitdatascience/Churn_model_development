@@ -79,6 +79,11 @@ class TestModelLoading(unittest.TestCase):
         cls.new_model_uri = f'models:/{cls.new_model_name}/{cls.new_model_version}'
         cls.new_model = mlflow.pyfunc.load_model(cls.new_model_uri)
 
+        # Load holdout test data
+        cls.holdout_x_test_data = pd.read_csv('data/processed/x_test.csv')
+        cls.holdout_y_test_data = pd.read_csv('data/processed/y_test.csv')
+
+
     @staticmethod
     def get_latest_model_version(model_name, stage="Staging"):
         client = mlflow.MlflowClient()
@@ -116,6 +121,34 @@ class TestModelLoading(unittest.TestCase):
         # Check that the predictions are binary (either 0 or 1)
         unique_values = np.unique(prediction)
         self.assertTrue(set(unique_values).issubset({0, 1}))     
+
+    def test_model_performance(self):
+        # Extract features and labels from holdout test data
+        X_holdout = self.holdout_x_test_data
+        y_holdout = self.holdout_y_test_data
+
+        # Predict using the new model
+        y_pred_new = self.new_model.predict(X_holdout)
+
+        # Calculate performance metrics for the new model
+        accuracy_new = accuracy_score(y_holdout, y_pred_new)
+        precision_new = precision_score(y_holdout, y_pred_new)
+        recall_new = recall_score(y_holdout, y_pred_new)
+        f1_new = f1_score(y_holdout, y_pred_new)
+
+        # Define expected thresholds for the performance metrics
+        expected_accuracy = 0.90
+        expected_precision = 0.90
+        expected_recall = 0.90
+        expected_f1 = 0.85
+
+        # Assert that the new model meets the performance thresholds
+        self.assertGreaterEqual(accuracy_new, expected_accuracy, f'Accuracy should be at least {expected_accuracy}')
+        self.assertGreaterEqual(precision_new, expected_precision, f'Precision should be at least {expected_precision}')
+        self.assertGreaterEqual(recall_new, expected_recall, f'Recall should be at least {expected_recall}')
+        self.assertGreaterEqual(f1_new, expected_f1, f'F1 score should be at least {expected_f1}')
+
+
 
 if __name__ == '__main__':
     unittest.main()
