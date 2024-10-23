@@ -136,6 +136,7 @@
 
 
 from flask import Flask, request, jsonify, render_template
+from flask_cors import CORS
 import pickle
 import numpy as np
 import pandas as pd
@@ -161,6 +162,7 @@ repo_name = "Churn_model_development"
 mlflow.set_tracking_uri(f'{dagshub_url}/{repo_owner}/{repo_name}.mlflow')
 
 app = Flask(__name__)
+CORS(app)
 
 # Function to get the latest model version
 def get_latest_model_version(model_name):
@@ -262,4 +264,4 @@ def predict():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,host= "0.0.0.0")

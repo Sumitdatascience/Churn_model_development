@@ -132,7 +132,7 @@
     console.log(data);  // Verify the data is correct before sending
 
     // Send the request to the backend (Flask app) at the correct URL
-    fetch('http://127.0.0.1:5000/predict', {
+    fetch('http://localhost:8888/predict', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
