@@ -76,23 +76,23 @@ class FlaskAppTests(unittest.TestCase):
         """Test the /predict endpoint with valid input data"""
         # Example input data in JSON format matching the expected model features
         input_data = {
-            'tenure': 12,
+            'tenure':12,
             'preferredLoginDevice': 'desktop',
-            'cityTier': 1,
-            'warehouseToHome': 2,
-            'preferredPaymentMode': 'credit card',
-            'gender': 'male',
-            'hourSpendOnApp': 2,
-            'numberOfDeviceRegistered': 3,
-            'preferredOrderCat': 'fashion',
-            'satisfactionScore': 2,
-            'maritalStatus': 0,
-            'numberOfAddress': 3.0,
-            'complain': 0,
-            'orderAmountHikeFromLastYear': 13.0,
-            'orderCount': 10,
-            'daySinceLastOrder': 20.0,
-            'cashbackAmount': 160.0
+            'cityTier':1,
+            'warehouseToHome':2,
+            'preferredPaymentMode':'credit card',
+            'gender':'male',
+            'hourSpendOnApp':2,
+            'numberOfDeviceRegistered':3,
+            'preferredOrderCat':'fashion',
+            'satisfactionScore':2,
+            'maritalStatus':0,
+            'numberOfAddress':3.0,
+            'complain':0,
+            'orderAmountHikeFromLastYear':13.0,
+            'orderCount':10,
+            'daySinceLastOrder':20.0,
+            'cashbackAmount':160.0
         }
 
         # Send POST request to /predict with the input data
