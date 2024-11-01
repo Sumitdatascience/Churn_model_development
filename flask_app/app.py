@@ -404,6 +404,10 @@ def home():
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
+        # Retrieve JSON data from the request
+        # data = request.get_json()
+        # logging.debug(f"Received data: {data}")
+
         # Validate the input data by checking for required fields
         required_fields = ['tenure', 'preferredLoginDevice', 'cityTier', 'warehouseToHome', 'preferredPaymentMode',
                            'gender', 'hourSpendOnApp', 'numberOfDeviceRegistered', 'preferredOrderCat',
