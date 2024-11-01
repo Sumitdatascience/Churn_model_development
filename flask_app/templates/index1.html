@@ -46,7 +46,8 @@
 
     <h2 style="text-align: center;">Churn Prediction Form</h2>
 
-    <form id="churnForm" action="javascript:void(0);">
+    <form id="churnForm" action="/predict" method="POST">
+        <!-- Form fields as before -->
         <label for="tenure">Tenure</label>
         <input type="number" id="tenure" name="tenure" required>
 
@@ -98,58 +99,10 @@
         <label for="cashbackAmount">Cashback Amount</label>
         <input type="number" id="cashbackAmount" name="cashbackAmount" required>
 
-        <input type="submit" value="Submit" onclick="makePrediction()">
+        <input type="submit" value="Submit">
     </form>
 
     <div class="result" id="result"></div>
-
-    <script>
-        function makePrediction() {
-    const form = document.getElementById('churnForm');
-    const formData = new FormData(form);
-
-    // Prepare the data to send to the backend
-    const data = {
-        'tenure': formData.get('tenure'),
-        'preferredLoginDevice': formData.get('preferredLoginDevice'),
-        'cityTier': formData.get('cityTier'),
-        'warehouseToHome': formData.get('warehouseToHome'),
-        'preferredPaymentMode': formData.get('preferredPaymentMode'),
-        'gender': formData.get('gender'),
-        'hourSpendOnApp': formData.get('hourSpendOnApp'),
-        'numberOfDeviceRegistered': formData.get('numberOfDeviceRegistered'),
-        'preferredOrderCat': formData.get('preferredOrderCat'),
-        'satisfactionScore': formData.get('satisfactionScore'),
-        'maritalStatus': formData.get('maritalStatus'),
-        'numberOfAddress': formData.get('numberOfAddress'),
-        'complain': formData.get('complain'),
-        'orderAmountHikeFromLastYear': formData.get('orderAmountHikeFromLastYear'),
-        'orderCount': formData.get('orderCount'),
-        'daySinceLastOrder': formData.get('daySinceLastOrder'),
-        'cashbackAmount': formData.get('cashbackAmount')
-    };
-
-    console.log(data);  // Verify the data is correct before sending
-
-    // Send the request to the backend (Flask app) at the correct URL
-    fetch('http://13.60.237.170/predict', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(data)
-    })
-    .then(response => response.json())
-    .then(result => {
-        document.getElementById('result').innerHTML = `<h3>Prediction: ${result.prediction}</h3>`;
-    })
-    .catch(error => {
-        console.error('Error:', error);
-        document.getElementById('result').innerHTML = `<h3 style="color: red;">Error making prediction.</h3>`;
-    });
-}
-
-    </script>
 
 </body>
 </html>

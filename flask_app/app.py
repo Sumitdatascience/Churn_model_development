@@ -209,25 +209,79 @@ def preprocess_input(data):
 # Define the home route
 @app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('index1.html')
 
-# Define the predict route
+# # Define the predict route
+# @app.route('/predict', methods=['POST'])
+# def predict():
+#     try:
+#         # Get the data from the POST request
+#         data = request.get_json()
+
+#         # Validate the input data
+#         required_fields = ['tenure', 'preferredLoginDevice', 'cityTier', 'warehouseToHome', 'preferredPaymentMode',
+#                            'gender', 'hourSpendOnApp', 'numberOfDeviceRegistered', 'preferredOrderCat',
+#                            'satisfactionScore', 'maritalStatus', 'numberOfAddress', 'complain', 
+#                            'orderAmountHikeFromLastYear', 'orderCount', 'daySinceLastOrder', 'cashbackAmount']
+#         for field in required_fields:
+#             if field not in data:
+#                 raise ValueError(f"Missing field in input data: {field}")
+
+#         # Extract and process the input data
+#         input_data = [
+#             int(data['tenure']),
+#             data['preferredLoginDevice'],
+#             int(data['cityTier']),
+#             int(data['warehouseToHome']),
+#             data['preferredPaymentMode'],
+#             data['gender'],
+#             int(data['hourSpendOnApp']),
+#             int(data['numberOfDeviceRegistered']),
+#             data['preferredOrderCat'],
+#             int(data['satisfactionScore']),
+#             int(data['maritalStatus']),
+#             float(data['numberOfAddress']),
+#             int(data['complain']),
+#             float(data['orderAmountHikeFromLastYear']),
+#             int(data['orderCount']),
+#             float(data['daySinceLastOrder']),
+#             float(data['cashbackAmount'])
+#         ]
+
+#         processed_input = preprocess_input(input_data)
+
+#         # Make prediction
+#         if model:
+#             prediction = model.predict(processed_input)
+#             logging.info(f"Prediction result: {prediction[0]}")
+#             return jsonify({'prediction': str(prediction[0])})
+#         else:
+#             raise Exception("Model is not available")
+
+#     except Exception as e:
+#         logging.error(f"Error during prediction: {str(e)}")
+#         return jsonify({'error': str(e)}), 500
+
+
+   ##### Work with Index1.html ###
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
-        # Get the data from the POST request
-        data = request.get_json()
-
         # Validate the input data
         required_fields = ['tenure', 'preferredLoginDevice', 'cityTier', 'warehouseToHome', 'preferredPaymentMode',
                            'gender', 'hourSpendOnApp', 'numberOfDeviceRegistered', 'preferredOrderCat',
                            'satisfactionScore', 'maritalStatus', 'numberOfAddress', 'complain', 
                            'orderAmountHikeFromLastYear', 'orderCount', 'daySinceLastOrder', 'cashbackAmount']
+        
+        # Retrieve data from the form submission
+        data = {}
         for field in required_fields:
-            if field not in data:
+            value = request.form.get(field)
+            if value is None:
                 raise ValueError(f"Missing field in input data: {field}")
+            data[field] = value
 
-        # Extract and process the input data
+        # Extract and process the input data without changing the data types
         input_data = [
             int(data['tenure']),
             data['preferredLoginDevice'],
@@ -248,6 +302,7 @@ def predict():
             float(data['cashbackAmount'])
         ]
 
+        # Preprocess the input data for the model
         processed_input = preprocess_input(input_data)
 
         # Make prediction
