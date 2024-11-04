@@ -60,34 +60,55 @@ jobs:
       #   run: python -m unittest tests/test_flask_app.py   
 
         
-      - name: log in to docker hub
-        if: success()
-        uses: docker/login-action@v2
-        with:
-          username: ${{ secrets.DOCKER_HUB_USERNAME }}
-          password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
+      # - name: log in to docker hub
+      #   if: success()
+      #   uses: docker/login-action@v2
+      #   with:
+      #     username: ${{ secrets.DOCKER_HUB_USERNAME }}
+      #     password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
         
+      # - name: Build Docker image
+      #   if: success()
+      #   run: |
+      #     docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest .
+
+      # - name: Push Docker image to docker hub
+      #   if: success()
+      #   run: |
+      #     docker push ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest
+
+      # - name: Deploy to EC2
+      #   if: success()
+      #   uses: appleboy/ssh-action@v0.1.5
+      #   with:
+      #     host: ${{ secrets.EC2_HOST }}
+      #     username: ${{ secrets.EC2_USER }}
+      #     key: ${{ secrets.EC2_SSH_KEY }}
+      #     script: |
+      #         docker pull ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest
+      #         docker stop my-app || true
+      #         docker rm my-app || true
+      #         docker run -p 80:5000 --name my-app \
+      #           -e DAGSHUB_PAT=${{ secrets.DAGSHUB_PAT }} \
+      #           ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest    
+      - name: Login to AWS ECR
+        if: ${{ success() }}
+        run: |
+            aws configure set aws_access_key_id ${{ secrets.AWS_ECR_ACCESS_KEY_ID }}
+            aws configure set aws_secret_access_key ${{ secrets.AWS_ECR_SECRET_ACCESS_KEY }}
+            aws configure set region eu-north-1
+            aws ecr get-login-password --region eu-north-1 | docker login --username AWS --password-stdin 637423556139.dkr.ecr.eu-north-1.amazonaws.com
       - name: Build Docker image
-        if: success()
+        if: ${{ success() }}
         run: |
-          docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest .
+            docker build -t docker_for_churn .
 
-      - name: Push Docker image to docker hub
-        if: success()
+      - name: Tag Docker image
+        if: ${{ success() }}
         run: |
-          docker push ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest
+            docker tag docker_for_churn:latest 637423556139.dkr.ecr.eu-north-1.amazonaws.com/docker_for_churn:latest
 
-      - name: Deploy to EC2
-        if: success()
-        uses: appleboy/ssh-action@v0.1.5
-        with:
-          host: ${{ secrets.EC2_HOST }}
-          username: ${{ secrets.EC2_USER }}
-          key: ${{ secrets.EC2_SSH_KEY }}
-          script: |
-              docker pull ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest
-              docker stop my-app || true
-              docker rm my-app || true
-              docker run -p 80:5000 --name my-app \
-                -e DAGSHUB_PAT=${{ secrets.DAGSHUB_PAT }} \
-                ${{ secrets.DOCKER_HUB_USERNAME }}/churn_pred4:latest    
+      - name: Push Docker image to AWS ECR
+        if: ${{ success() }}
+        run: |
+            docker push 637423556139.dkr.ecr.eu-north-1.amazonaws.com/docker_for_churn:latest
