@@ -112,3 +112,19 @@ jobs:
         if: ${{ success() }}
         run: |
             docker push 637423556139.dkr.ecr.eu-north-1.amazonaws.com/docker_for_churn:latest
+      - name: Deploy to EC2
+        if: ${{ success() }}
+        uses: appleboy/ssh-action@v0.1.5
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+          aws configure set aws_access_key_id ${{ secrets.AWS_ECR_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.AWS_ECR_SECRET_ACCESS_KEY }}
+          aws configure set region eu-north-1
+          aws ecr get-login-password --region eu-north-1 | docker login --username AWS --password-stdin 637423556139.dkr.ecr.eu-north-1.amazonaws.com
+          docker pull 637423556139.dkr.ecr.eu-north-1.amazonaws.com/docker_for_churn:latest
+          docker stop my-app || true
+          docker rm my-app || true
+          docker run -d  -p 80:5000 -e DAGSHUB_PAT=4d77d0aab5fc058439787d80df360654af9e041c --name Aws_docker_image 637423556139.dkr.ecr.eu-north-1.amazonaws.com/docker_for_churn:v1      
